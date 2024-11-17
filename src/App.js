@@ -21,7 +21,7 @@ const LandingPage = () => {
         <div className="container">
           <div className="hero-content">
             <h2 className="hero-title">
-              Your Mental Health Journey, Simplified
+              Your path, your progress. All in one place
             </h2>
             <p className="hero-subtitle">
               A revolutionary digital journal for comprehensive mental health
